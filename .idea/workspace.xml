@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53598e60-126d-4b4f-a780-26f2135df354" name="Default Changelist" comment="" />
+    <list default="true" id="53598e60-126d-4b4f-a780-26f2135df354" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +105,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+            <state relative-caret-position="360">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -229,8 +231,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="717" />
-    <option name="y" value="84" />
+    <option name="x" value="549" />
+    <option name="y" value="34" />
     <option name="width" value="1726" />
     <option name="height" value="905" />
   </component>
@@ -332,7 +334,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -465,7 +467,7 @@
       <workItem from="1625066903896" duration="637000" />
       <workItem from="1625067597535" duration="125000" />
       <workItem from="1625138206267" duration="3773000" />
-      <workItem from="1625579874578" duration="847000" />
+      <workItem from="1625579874578" duration="1866000" />
     </task>
     <servers />
   </component>
@@ -502,7 +504,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149286000" />
+    <option name="totallyTimeSpent" value="150305000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -514,9 +516,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="717" y="84" width="1726" height="905" extended-state="0" />
+    <frame x="1044" y="54" width="1726" height="905" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21668668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21668668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -531,7 +533,7 @@
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49939975" weight="0.39040208" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294423" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32987013" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32987013" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006002" side_tool="true" weight="0.41403025" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32555124" />
@@ -776,8 +778,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state relative-caret-position="360">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
         </state>
       </provider>
     </entry>
