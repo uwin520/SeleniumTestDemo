@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite" thread-count="2" parallel="methods">
+  <test name="Selenium_test">
+    <classes>
+      <class name="com.test.day2.AlertTest">
+        <methods>
+          <include name="navigate"/>
+        </methods>
+      </class> <!-- com.test.day2.AlertTest -->
+    </classes>
+  </test> <!-- Selenium_test -->
+</suite> <!-- Default Suite -->
